@@ -1,0 +1,16 @@
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.exe
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.deps.json
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.runtimeconfig.json
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.runtimeconfig.dev.json
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.dll
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\ref\CatsDogs.dll
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\bin\Debug\net5.0\CatsDogs.pdb
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.csproj.AssemblyReference.cache
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.AssemblyInfoInputs.cache
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.AssemblyInfo.cs
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.csproj.CoreCompileInputs.cache
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.dll
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\ref\CatsDogs.dll
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.pdb
+C:\Users\simso\source\repos\PersonalityTest\CatsDogs\obj\Debug\net5.0\CatsDogs.genruntimeconfig.cache
